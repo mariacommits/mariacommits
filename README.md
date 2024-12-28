@@ -20,7 +20,7 @@ Currently learning Python and Django 🌱
 
 ## How to reach me
 
-📧 You can write me an **[email](mailto:mariaalejandracedeno039@gmail.com)**
+✉ You can write me an **[email](mailto:mariaalejandracedeno039@gmail.com)**
 
 🤝 And making connections on **[LinkedIn](https://www.linkedin.com/in/maria-alejandra-cedeño)**
 
