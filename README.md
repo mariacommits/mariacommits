@@ -1,4 +1,4 @@
-# Hi, I'm Maria! 👋
+# Hi there, I'm Maria! 👋
 
 **A passionate engineering student eager to learn and grow👩‍💻.**
 
