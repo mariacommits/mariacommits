@@ -2,7 +2,7 @@
 
 ## About Me: 👽
 
-I am system engineering student with a strong interest on software development
+I am a Systems Engineering student with a strong interest on software development
 
 I love learning new technologies and contributing to open source
 
