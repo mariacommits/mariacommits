@@ -1,4 +1,5 @@
-# Hi there, I'm Maria
+# Hi there, I'm Maria ![rushil-whisper](https://github.com/user-attachments/assets/d2166c12-5fbd-4f2a-b240-790c8d1c9531)
+
 
 ## About Me: 👽
 
@@ -6,7 +7,7 @@ I am system engineering student with a strong interest on software development
 
 I love learning new technologies and contributing to open source
 
-Available for new and interesting collaborations
+Available for new and interesting collaborations :shipit:
 
 Currently learning Python and Django 🌱
 
