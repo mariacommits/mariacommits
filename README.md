@@ -1,5 +1,4 @@
-# Hi there, I'm Maria ![rushil-whisper](https://github.com/user-attachments/assets/d2166c12-5fbd-4f2a-b240-790c8d1c9531)
-
+# Hi there, I'm Maria! ![rushil-whisper](https://github.com/user-attachments/assets/d2166c12-5fbd-4f2a-b240-790c8d1c9531)
 
 ## About Me: 👽
 
