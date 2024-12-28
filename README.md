@@ -1,6 +1,14 @@
-# Hi there, I'm Maria! 👋
+# Hi there, I'm Maria
 
-**A passionate engineering student eager to learn and grow👩‍💻.**
+## About Me: 👽
+
+I am system engineering student with a strong interest on software development
+
+I love learning new technologies and contributing to open source
+
+Available for new and interesting collaborations
+
+Currently learning Python and Django 🌱
 
 ## Skills
 
@@ -10,9 +18,10 @@
 
 * **Soft Skills:** Problem-solving, Teamwork, Communication
 
-### Let's Connect
+## How to reach me
 
-* **[LinkedIn](https://www.linkedin.com/in/maria-alejandra-cedeño)**
+📧 You can write me an **[email](mailto:mariaalejandracedeno039@gmail.com)**
 
-* **[Email](mailto:mariaalejandracedeno039@gmail.com)**
-<!--end of my README profile-->
+🤝 And making connections on **[LinkedIn](https://www.linkedin.com/in/maria-alejandra-cedeño)**
+
+<!--this the end of my README profile-->
